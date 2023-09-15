@@ -1,1 +1,1 @@
-# Rock_paper_scissors_game
+# It's my rock, paper, scissors game in C#
